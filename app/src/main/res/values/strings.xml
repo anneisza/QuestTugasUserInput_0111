@@ -4,4 +4,5 @@
     <string name="form_subtitle">Silahkan isi biodata Anda Di bawah ini!</string>
     <string name="lbl_first_name">Nama Depan</string>
     <string name="lbl_last_name">Nama Belakang</string>
+    <string name="lbl_email">Email</string>
 </resources>
