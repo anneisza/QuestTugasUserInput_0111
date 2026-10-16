@@ -5,4 +5,6 @@
     <string name="lbl_first_name">Nama Depan</string>
     <string name="lbl_last_name">Nama Belakang</string>
     <string name="lbl_email">Email</string>
+    <string name="lbl_birth_date">Tgl Lahir</string>
+    <string name="lbl_experience">Experience</string>
 </resources>
