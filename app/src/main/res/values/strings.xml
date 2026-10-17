@@ -10,4 +10,5 @@
     <string name="lbl_skills">Pilih Skill Anda :</string>
     <string name="skill_android">Android</string>
     <string name="skill_UI_UX">UI/UX</string>
+    <string name="skill_web">Web</string>
 </resources>
