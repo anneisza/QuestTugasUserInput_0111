@@ -3,4 +3,5 @@
     <dimen name="bg_height">260dp</dimen>
     <dimen name="card_top_offset">190dp</dimen>
     <dimen name="card_corner">32dp</dimen>
+    <dimen name="field_corner">24dp</dimen>
 </resources>
