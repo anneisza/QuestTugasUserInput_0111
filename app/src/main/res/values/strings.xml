@@ -15,6 +15,7 @@
     <string name="btn_ok">OK</string>
     <string name="btn_cancel">Batal</string>
     <string name="date_format">dd/MM/yyyy</string>
+    <string name="cd_background">Latar belakang bunga</string>
     <string-array name="experience_option">
         <item>Pemula</item>
         <item>Menengah</item>
