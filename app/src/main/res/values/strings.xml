@@ -11,7 +11,9 @@
     <string name="skill_android">Android</string>
     <string name="skill_UI_UX">UI/UX</string>
     <string name="skill_web">Web</string>
-    <string name="lbl_proceed">Proceed</string>
+    <string name="btn_proceed">Proceed</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Batal</string>
     <string-array name="experience_option">
         <item>Pemula</item>
         <item>Menengah</item>
