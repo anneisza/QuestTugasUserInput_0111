@@ -14,6 +14,7 @@
     <string name="btn_proceed">Proceed</string>
     <string name="btn_ok">OK</string>
     <string name="btn_cancel">Batal</string>
+    <string name="date_format">dd/MM/yyyy</string>
     <string-array name="experience_option">
         <item>Pemula</item>
         <item>Menengah</item>
