@@ -21,4 +21,6 @@
         <item>Menengah</item>
         <item>Mahir</item>
     </string-array>
+    <string name="msg_saved">Data tersimpan!\nNama: %1$s %2$s\nEmail: %3$s\nTgl Lahir: %4$s\nExperience: %5$s\nSkill: %6$s</string>
+    <string name="separator_comma">", "</string>
 </resources>
