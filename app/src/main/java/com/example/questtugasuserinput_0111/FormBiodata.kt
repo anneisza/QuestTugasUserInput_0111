@@ -194,7 +194,7 @@ fun FormBiodata(
                         label = { Text(stringResource(R.string.lbl_birth_date)) },
                         trailingIcon = {
                             Icon(
-                                painter = painterResource(R.drawable.ic_calendar),
+                                painter = painterResource(R.drawable.ic_calender),
                                 contentDescription = stringResource(R.string.cd_pick_date)
                             )
                         },
